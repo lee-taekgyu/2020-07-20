@@ -1,3 +1,3 @@
 #! /usr/bin/env python
 
-print("Hello Bioinfomatics")
+print("Hello Lee, your are a experienced people"))
